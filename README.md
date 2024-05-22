@@ -1,7 +1,7 @@
 # cadet_c1_crystal_adapter
 Mounting a DIP14 crystal on a lzx Cadet C1 SYNC GENERATOR modular.
 
-![cadet_c1_crystal_adapter](http://192.168.0.132/hardware/cadet-c1-crystal-adapter/-/raw/main/pics/DSC00486.JPG)
+![cadet_c1_crystal_adapter](https://raw.githubusercontent.com/KevinKeWang/cadet-c1-crystal-adapter/main/pics/DSC00480.JPG)
 
 ## Instructions
 The CSX750VCB13.500M-UT is no longer available. We can replace it with a custom DIP14 size crystal. So I made this adapter board to mount it on the original PCB.
@@ -19,19 +19,19 @@ The CSX750VCB13.500M-UT is no longer available. We can replace it with a custom 
 
 **All Parts:**
 
-![step1](http://192.168.0.132/hardware/cadet-c1-crystal-adapter/-/raw/main/pics/DSC00481.JPG)
+![step1](https://raw.githubusercontent.com/KevinKeWang/cadet-c1-crystal-adapter/main/pics/DSC00481.JPG)
 
 **Soldering connector and crystal on adapter:**
 
-![step2](http://192.168.0.132/hardware/cadet-c1-crystal-adapter/-/raw/main/pics/DSC00480.JPG)
+![step2](https://raw.githubusercontent.com/KevinKeWang/cadet-c1-crystal-adapter/main/pics/DSC00480.JPG)
 
 **Soldering connector on Cadet C1:**
 
-![step3](http://192.168.0.132/hardware/cadet-c1-crystal-adapter/-/raw/main/pics/DSC00483.JPG)
+![step3](https://raw.githubusercontent.com/KevinKeWang/cadet-c1-crystal-adapter/main/pics/DSC00483.JPG)
 
 **Put them together:**
 
-![step4](http://192.168.0.132/hardware/cadet-c1-crystal-adapter/-/raw/main/pics/DSC00486.JPG)
+![step4](https://raw.githubusercontent.com/KevinKeWang/cadet-c1-crystal-adapter/main/pics/DSC00486.JPG)
 
 
 **Thanks to XIEHUO for finding the seller of this custom 5V VCXO crystal, which is hard to find these days.**
