@@ -1,7 +1,7 @@
 # cadet_c1_crystal_adapter
 Mounting a DIP14 crystal on a lzx Cadet C1 SYNC GENERATOR modular.
 
-![cadet_c1_crystal_adapter](https://raw.githubusercontent.com/KevinKeWang/cadet-c1-crystal-adapter/main/pics/DSC00480.JPG)
+![cadet_c1_crystal_adapter](https://raw.githubusercontent.com/KevinKeWang/cadet-c1-crystal-adapter/main/pics/DSC00486.JPG)
 
 ## Instructions
 The CSX750VCB13.500M-UT is no longer available. We can replace it with a custom DIP14 size crystal. So I made this adapter board to mount it on the original PCB.
