@@ -34,7 +34,7 @@ The CSX750VCB13.500M-UT is no longer available. We can replace it with a custom 
 ![step4](https://raw.githubusercontent.com/KevinKeWang/cadet-c1-crystal-adapter/main/pics/DSC00486.JPG)
 
 
-**Thanks to XIEHUO for finding the seller of this custom 5V VCXO crystal, which is hard to find these days.**
+**Thanks to Eastwinder for finding the seller of this custom 5V VCXO crystal, which is hard to find these days.**
 
 ## License
 This project is made available under a cc-by-sa-3.0 license.
